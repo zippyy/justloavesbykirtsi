@@ -1,7 +1,7 @@
 ---
 title: 'We Help Business Grow'
 weight: 1
-background: 'images/choc.jpg'
+background: 'images/nut.jpg'
 button: 'Our Work'
 buttonLink: 'work'
 ---
