@@ -16,7 +16,7 @@ theme = "hugo-hero-theme"
     mobile_height = "36px"
     mobile_width = "36px"
     desktop = "images/logo3.svg"
-    desktop_height = "29px"
+    desktop_height = "36px"
     desktop_width = "217px"
     alt = "Just Loaves"
 
