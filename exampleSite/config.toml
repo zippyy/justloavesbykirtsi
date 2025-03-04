@@ -16,7 +16,7 @@ theme = "hugo-hero-theme"
     mobile_height = "36px"
     mobile_width = "36px"
     desktop = "images/logo3.svg"
-    desktop_height = "116px"
+    desktop_height = "300px"
     desktop_width = "300px"
     alt = "Just Loaves"
 
@@ -32,23 +32,8 @@ theme = "hugo-hero-theme"
     meta_twitter_creator = "@zerostaticio"
 
 [[menu.main]]
-	name = "Services"
-	url = "/services/"
-    weight = 1
-
-[[menu.main]]
-    name = "Work"
-    url = "/work/"
-    weight = 2
-
-[[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 3
-
-[[menu.main]]
-    name = "History"
-    url = "/history/"
     weight = 3
 
 [[menu.main]]
